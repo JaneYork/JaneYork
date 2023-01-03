@@ -1,4 +1,4 @@
-- 💞️ Hi, I’m <a href="https://pgz-sbv-gf.pusdn.com/">@PGZ</a>
+- 💞️ Hi, I’m <a target="_blank" href="https://pgz-sbv-gf.pusdn.com/">@PGZ</a>
 
 
 <!---
