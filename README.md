@@ -21,3 +21,10 @@
         <img src="https://img.shields.io/badge/Star-14002-%23722ed1?logo=discord"
             alt="soft.pusdn.com"></a>
 </p>
+
+<p align="center">
+    <a href="http://soft.pusdn.com">
+        <img src="https://github-profile-trophy.vercel.app/?username=JaneYork&no-frame=true"
+            alt="soft.pusdn.com"></a>
+</p>
+
