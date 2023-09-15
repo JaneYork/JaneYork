@@ -33,3 +33,6 @@
         <img style="max-width:740px;" width=740 src="https://github-readme-activity-graph.vercel.app/graph?username=JaneYork&theme=nightowl"
             alt="soft.pusdn.com"></a>
 </p>
+
+[![PUSDN](https://streak-stats.demolab.com?user=JaneYork&theme=gruvbox&border_radius=20&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://soft.pusdn.com)
+
