@@ -9,3 +9,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaneYork)](https://github.com/anuraghazra/github-readme-stats)
 
 [![JaneYork's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaneYork&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center" style="text-align: center;">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaneYork&show_icons=true&theme=midnight-purple&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+</div>
