@@ -15,3 +15,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaneYork&show_icons=true&theme=midnight-purple&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 </div>
+
+<p align="center">
+    <a href="http://soft.pusdn.com">
+        <img src="https://img.shields.io/badge/Star-14002-%23722ed1?logo=discord"
+            alt="soft.pusdn.com"></a>
+</p>
