@@ -28,3 +28,8 @@
             alt="soft.pusdn.com"></a>
 </p>
 
+<p align="center">
+    <a href="http://soft.pusdn.com">
+        <img style="max-width:740px;" width=740 src="https://github-readme-activity-graph.vercel.app/graph?username=JaneYork&theme=nightowl"
+            alt="soft.pusdn.com"></a>
+</p>
