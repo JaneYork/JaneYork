@@ -90,3 +90,19 @@
 破该仔   🕓 9527h0m ██████████████████████████ 100.0%
 干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
+
+### 🎸 最近在听音乐
+
+<details open>
+<summary>点击展开 ...</summary>
+
+<table align="center">
+<tr>
+<td valign="top">
+
+[![PUSDN最近在听](https://netease-recent-profile.vercel.app/?id=97598241&type=1&size=60&show_percent=1&title=最近在听)](https://netease-recent-profile.vercel.app/?id=97598241&type=0&size=60&show_percent=1&title=最近在听)
+</td>
+</tr>
+</table>
+
+</details>
